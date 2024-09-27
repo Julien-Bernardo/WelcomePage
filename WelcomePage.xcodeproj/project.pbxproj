@@ -11,6 +11,15 @@
 		8D24AE472CA6BB9B001974A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D24AE462CA6BB9B001974A6 /* ContentView.swift */; };
 		8D24AE492CA6BB9C001974A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D24AE482CA6BB9C001974A6 /* Assets.xcassets */; };
 		8D24AE4C2CA6BB9C001974A6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D24AE4B2CA6BB9C001974A6 /* Preview Assets.xcassets */; };
+		8D24AE552CA6BE1E001974A6 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D24AE542CA6BE1E001974A6 /* Constants.swift */; };
+		8D24AE592CA6BE69001974A6 /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D24AE582CA6BE69001974A6 /* SplashScreenView.swift */; };
+		8D24AE5B2CA6BE86001974A6 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D24AE5A2CA6BE86001974A6 /* WelcomeView.swift */; };
+		8D24AE5D2CA6BEAB001974A6 /* ScanInvitationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D24AE5C2CA6BEAB001974A6 /* ScanInvitationView.swift */; };
+		8D24AE5F2CA6BEBD001974A6 /* LoginButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D24AE5E2CA6BEBD001974A6 /* LoginButtonView.swift */; };
+		8D24AE612CA6BED3001974A6 /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D24AE602CA6BED3001974A6 /* SignInView.swift */; };
+		8D24AE652CA6BEF0001974A6 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8D24AE632CA6BEF0001974A6 /* Roboto-Regular.ttf */; };
+		8D24AE662CA6BEF0001974A6 /* PlayfairDisplay-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8D24AE642CA6BEF0001974A6 /* PlayfairDisplay-Regular.ttf */; };
+		8D24AE692CA6BF4A001974A6 /* InvitationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D24AE682CA6BF4A001974A6 /* InvitationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +28,16 @@
 		8D24AE462CA6BB9B001974A6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8D24AE482CA6BB9C001974A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D24AE4B2CA6BB9C001974A6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8D24AE542CA6BE1E001974A6 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		8D24AE582CA6BE69001974A6 /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
+		8D24AE5A2CA6BE86001974A6 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		8D24AE5C2CA6BEAB001974A6 /* ScanInvitationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanInvitationView.swift; sourceTree = "<group>"; };
+		8D24AE5E2CA6BEBD001974A6 /* LoginButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginButtonView.swift; sourceTree = "<group>"; };
+		8D24AE602CA6BED3001974A6 /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
+		8D24AE632CA6BEF0001974A6 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		8D24AE642CA6BEF0001974A6 /* PlayfairDisplay-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlayfairDisplay-Regular.ttf"; sourceTree = "<group>"; };
+		8D24AE672CA6BF01001974A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8D24AE682CA6BF4A001974A6 /* InvitationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvitationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +70,11 @@
 		8D24AE432CA6BB9B001974A6 /* WelcomePage */ = {
 			isa = PBXGroup;
 			children = (
+				8D24AE672CA6BF01001974A6 /* Info.plist */,
+				8D24AE622CA6BEE0001974A6 /* Fonts */,
+				8D24AE532CA6BE09001974A6 /* Utils */,
+				8D24AE522CA6BE01001974A6 /* View */,
 				8D24AE442CA6BB9B001974A6 /* WelcomePageApp.swift */,
-				8D24AE462CA6BB9B001974A6 /* ContentView.swift */,
 				8D24AE482CA6BB9C001974A6 /* Assets.xcassets */,
 				8D24AE4A2CA6BB9C001974A6 /* Preview Content */,
 			);
@@ -65,6 +87,53 @@
 				8D24AE4B2CA6BB9C001974A6 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8D24AE522CA6BE01001974A6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				8D24AE572CA6BE48001974A6 /* Authentication */,
+				8D24AE562CA6BE3A001974A6 /* SplashScreen */,
+				8D24AE462CA6BB9B001974A6 /* ContentView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		8D24AE532CA6BE09001974A6 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				8D24AE542CA6BE1E001974A6 /* Constants.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		8D24AE562CA6BE3A001974A6 /* SplashScreen */ = {
+			isa = PBXGroup;
+			children = (
+				8D24AE582CA6BE69001974A6 /* SplashScreenView.swift */,
+			);
+			path = SplashScreen;
+			sourceTree = "<group>";
+		};
+		8D24AE572CA6BE48001974A6 /* Authentication */ = {
+			isa = PBXGroup;
+			children = (
+				8D24AE5A2CA6BE86001974A6 /* WelcomeView.swift */,
+				8D24AE5C2CA6BEAB001974A6 /* ScanInvitationView.swift */,
+				8D24AE5E2CA6BEBD001974A6 /* LoginButtonView.swift */,
+				8D24AE602CA6BED3001974A6 /* SignInView.swift */,
+				8D24AE682CA6BF4A001974A6 /* InvitationView.swift */,
+			);
+			path = Authentication;
+			sourceTree = "<group>";
+		};
+		8D24AE622CA6BEE0001974A6 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				8D24AE642CA6BEF0001974A6 /* PlayfairDisplay-Regular.ttf */,
+				8D24AE632CA6BEF0001974A6 /* Roboto-Regular.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +194,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D24AE662CA6BEF0001974A6 /* PlayfairDisplay-Regular.ttf in Resources */,
+				8D24AE652CA6BEF0001974A6 /* Roboto-Regular.ttf in Resources */,
 				8D24AE4C2CA6BB9C001974A6 /* Preview Assets.xcassets in Resources */,
 				8D24AE492CA6BB9C001974A6 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +208,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D24AE5D2CA6BEAB001974A6 /* ScanInvitationView.swift in Sources */,
+				8D24AE5B2CA6BE86001974A6 /* WelcomeView.swift in Sources */,
 				8D24AE472CA6BB9B001974A6 /* ContentView.swift in Sources */,
 				8D24AE452CA6BB9B001974A6 /* WelcomePageApp.swift in Sources */,
+				8D24AE552CA6BE1E001974A6 /* Constants.swift in Sources */,
+				8D24AE692CA6BF4A001974A6 /* InvitationView.swift in Sources */,
+				8D24AE592CA6BE69001974A6 /* SplashScreenView.swift in Sources */,
+				8D24AE612CA6BED3001974A6 /* SignInView.swift in Sources */,
+				8D24AE5F2CA6BEBD001974A6 /* LoginButtonView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +353,7 @@
 				DEVELOPMENT_TEAM = 49TSHQNY88;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WelcomePage/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -304,6 +383,7 @@
 				DEVELOPMENT_TEAM = 49TSHQNY88;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WelcomePage/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

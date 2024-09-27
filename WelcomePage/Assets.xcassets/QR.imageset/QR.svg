@@ -1,0 +1,27 @@
+<svg width="171" height="171" viewBox="0 0 171 171" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="clarity:qr-code-line" clip-path="url(#clip0_418_23506)">
+<path id="Vector" d="M26.6 19C24.5844 19 22.6513 19.8007 21.226 21.226C19.8007 22.6513 19 24.5844 19 26.6V57H57V19H26.6ZM47.5 47.5H28.5V28.5H47.5V47.5Z" fill="black"/>
+<path id="Vector_2" d="M19 144.4C19 146.416 19.8007 148.349 21.226 149.774C22.6513 151.199 24.5844 152 26.6 152H57V114H19V144.4ZM28.5 123.5H47.5V142.5H28.5V123.5Z" fill="black"/>
+<path id="Vector_3" d="M114 152H144.4C146.416 152 148.349 151.199 149.774 149.774C151.199 148.349 152 146.416 152 144.4V114H114V152ZM123.5 123.5H142.5V142.5H123.5V123.5Z" fill="black"/>
+<path id="Vector_4" d="M144.4 19H114V57H152V26.6C152 24.5844 151.199 22.6513 149.774 21.226C148.349 19.8007 146.416 19 144.4 19ZM142.5 47.5H123.5V28.5H142.5V47.5Z" fill="black"/>
+<path id="Vector_5" d="M95 47.5V38H76V57H85.5V47.5H95Z" fill="black"/>
+<path id="Vector_6" d="M57 57H66.5V66.5H57V57Z" fill="black"/>
+<path id="Vector_7" d="M66.5 66.5H85.5V76H66.5V66.5Z" fill="black"/>
+<path id="Vector_8" d="M95 28.5V38H104.5V19H66.5V38H76V28.5H95Z" fill="black"/>
+<path id="Vector_9" d="M19 66.5H28.5V85.5H19V66.5Z" fill="black"/>
+<path id="Vector_10" d="M57 76V85.5H47.5V66.5H38V85.5H28.5V95H19V104.5H38V95H47.5V104.5H57V95H66.5V76H57Z" fill="black"/>
+<path id="Vector_11" d="M95 76H104.5V85.5H114V76H123.5V66.5H104.5V47.5H95V57H85.5V66.5H95V76Z" fill="black"/>
+<path id="Vector_12" d="M85.5 142.5H66.5V152H104.5V142.5H95V133H85.5V142.5Z" fill="black"/>
+<path id="Vector_13" d="M104.5 95V85.5H95V76H85.5V85.5H76V95H85.5V104.5H95V95H104.5Z" fill="black"/>
+<path id="Vector_14" d="M142.5 95H152V104.5H142.5V95Z" fill="black"/>
+<path id="Vector_15" d="M104.5 95H133V104.5H104.5V95Z" fill="black"/>
+<path id="Vector_16" d="M142.5 66.5H133V76H123.5V85.5H133V95H142.5V85.5H152V76H142.5V66.5Z" fill="black"/>
+<path id="Vector_17" d="M95 104.5H104.5V133H95V104.5Z" fill="black"/>
+<path id="Vector_18" d="M66.5 133H76V123.5H85.5V114H76V95H66.5V133Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_418_23506">
+<rect width="171" height="171" fill="white"/>
+</clipPath>
+</defs>
+</svg>
