@@ -1,6 +1,6 @@
 # WelcomePage
 
-Tutorial: 
+Tutorial: https://youtu.be/4EMtN3JwbkQ
 
 In this video, I guide you through creating a stunning glassmorphism welcome page with animation using Figma and SwiftUI. You'll learn to implement the trendy glassmorphism effect, adding depth and elegance to your UI designs.
 
